@@ -1,2 +1,4 @@
 # SERS-FIAP-2026
-Soluções em Energias Renováveis e Sustentáveis
+
+Projeto destinado para atividades da disciplina **Soluções em Energias Renováveis e Sustentáveis** da **FIAP**.
+
